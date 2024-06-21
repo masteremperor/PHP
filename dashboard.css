@@ -1,0 +1,20 @@
+table {
+    border: 1px solid black;
+    width: 50%; 
+    margin: auto; 
+    margin-top: 2cm; 
+}
+
+
+th, td {
+    border: 1px solid black !important;
+    text-align: center !important;
+}
+
+.header{     
+    text-align: center;
+    display: block;
+    margin-top: 2cm;
+}
+
+
